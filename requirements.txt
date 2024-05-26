@@ -1,0 +1,4 @@
+colorama==0.4.6
+openai==1.30.3
+poke_env==0.8.0
+python-dotenv==1.0.1
